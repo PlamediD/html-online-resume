@@ -95,7 +95,8 @@ Use relevant anchor tags to create a multi-page website, listing other aspects o
 
 
 
-Requirements
+Disclamer: 
+      Requirements
 In order to keep the project within scope (time, energy, resource), you can only use HTML to complete thing project. Even if you know CSS and JS (which we're assuming you don't yet), you are expected to only write the website using HTML.
 
 
