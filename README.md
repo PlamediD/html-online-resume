@@ -33,7 +33,7 @@ Welcome to the Capstone Project 1 - Online Resume as part of The Complete 2024 W
 
 ## Built With
 
-
+![html](https://github.com/PlamediD/html-online-resume/assets/87151146/8c1aa4e1-62ed-494f-88f4-d7da07fb96a6)
 
 
 ## Usage
