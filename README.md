@@ -1,6 +1,7 @@
 # html-online-resume
-Capstone Project 1 - Online Resume ( The Complete 2024 Web Development Bootcamp, -Udemy) 
 
+Capstone Project 1 - Online Resume ( The Complete 2024 Web Development Bootcamp, -Udemy) 
+Feel free to visit the website and suggest feedback: https://plamedid.github.io/html-online-resume/
 
 Project Specifications
 Create an HTML file named index.html.
