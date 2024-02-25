@@ -6,8 +6,9 @@
 <br/>
 <p align="center">
   <a href="https://github.com/PlamediD/html-online-resume">
-    ![profile photo](https://github.com/PlamediD/html-online-resume/assets/87151146/9274b0fb-c07d-4d97-afab-9c9af58ece1d)
+    
   </a>
+  ![profile photo](https://github.com/PlamediD/html-online-resume/assets/87151146/9274b0fb-c07d-4d97-afab-9c9af58ece1d)
 
   <h3 align="center">A simple website to display my resume. </h3>
 
