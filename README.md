@@ -1,5 +1,6 @@
 # html-online-resume
 
+![profile photo](https://github.com/PlamediD/html-online-resume/assets/87151146/4314b269-7ae5-42b0-b8e3-0cd3ea0bd450)
 
 
 
@@ -8,8 +9,6 @@
   <a href="https://github.com/PlamediD/html-online-resume">
     
   </a>
-![profile photo](https://github.com/PlamediD/html-online-resume/assets/87151146/4314b269-7ae5-42b0-b8e3-0cd3ea0bd450)
-
 
   <h3 align="center">A simple website to display my resume. </h3>
 
