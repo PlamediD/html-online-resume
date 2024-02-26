@@ -1,6 +1,6 @@
 # html-online-resume
 
-![profile photo](https://github.com/PlamediD/html-online-resume/assets/87151146/4314b269-7ae5-42b0-b8e3-0cd3ea0bd450)
+![logo](https://github.com/PlamediD/html-online-resume/assets/87151146/bf9757be-0761-4b3a-9086-7ea26e8fde03)
 
 
 
